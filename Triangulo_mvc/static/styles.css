@@ -1,0 +1,11 @@
+body {
+    background-color: #f4f6f9;
+}
+
+.sombra-suave {
+    box-shadow: 0 0 15px rgba(0,0,0,0.1);
+}
+
+.card-header h3 {
+    margin: 0;
+}
